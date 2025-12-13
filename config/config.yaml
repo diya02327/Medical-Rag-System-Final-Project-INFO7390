@@ -1,0 +1,43 @@
+data_collection:
+  sources:
+    - name: "MedlinePlus"
+      url: "https://medlineplus.gov/"
+      topics:
+        - "Diseases and Conditions"
+        - "Symptoms"
+        - "Health Topics"
+    - name: "Mayo Clinic"
+      url: "https://www.mayoclinic.org/"
+      sections:
+        - "diseases-conditions"
+        - "symptoms"
+    - name: "CDC"
+      url: "https://www.cdc.gov/"
+      focus: "Disease information"
+  
+  max_documents: 1000
+  update_frequency: "weekly"
+
+preprocessing:
+  chunk_size: 512
+  chunk_overlap: 50
+  min_chunk_length: 100
+  remove_html: true
+  preserve_structure: true
+
+vector_db:
+  chroma:
+    collection_name: "medical_knowledge"
+    distance_metric: "cosine"
+  faiss:
+    index_type: "FlatL2"
+    nprobe: 10
+
+llm:
+  system_prompt: "You are a medical information assistant that provides accurate, evidence-based information from reputable medical sources."
+  max_context_length: 4000
+  retrieval_k: 5
+  
+ui:
+  page_title: "Medical Information Assistant"
+  disclaimer_text: "This tool provides general medical information only and is not a substitute for professional medical advice, diagnosis, or treatment."

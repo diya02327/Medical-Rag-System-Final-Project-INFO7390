@@ -1,0 +1,64 @@
+[
+  {
+    "source": "Medical Knowledge Base",
+    "title": "Type 2 Diabetes",
+    "category": "Endocrine Disorders",
+    "sections": {
+      "overview": "Type 2 diabetes is a chronic condition that affects the way your body metabolizes sugar (glucose). With type 2 diabetes, your body either resists the effects of insulin or doesn't produce enough insulin to maintain normal glucose levels. This is the most common form of diabetes, affecting millions of people worldwide.",
+      "symptoms": "Common symptoms include increased thirst and frequent urination, increased hunger, unintended weight loss, fatigue and weakness, blurred vision, slow-healing sores or frequent infections, numbness or tingling in hands or feet, and areas of darkened skin, usually in the armpits and neck.",
+      "causes": "Type 2 diabetes develops when the body becomes resistant to insulin or when the pancreas is unable to produce enough insulin. Excess weight is strongly linked to the development of type 2 diabetes. Risk factors include weight, inactivity, family history, age, gestational diabetes, and polycystic ovary syndrome.",
+      "treatment": "Treatment includes lifestyle changes such as healthy eating and exercise, along with medications to help manage blood sugar levels. Some people may need insulin therapy.",
+      "prevention": "Healthy lifestyle choices can help prevent type 2 diabetes. Key prevention strategies include eating healthy foods, getting active with at least 30 minutes of moderate physical activity daily, losing excess weight, and avoiding sedentary behaviors."
+    },
+    "url": "https://www.mayoclinic.org/diseases-conditions/type-2-diabetes"
+  },
+  {
+    "source": "Medical Knowledge Base",
+    "title": "Migraine Headaches",
+    "category": "Neurological Disorders",
+    "sections": {
+      "overview": "A migraine is a type of headache characterized by severe throbbing pain or a pulsing sensation, usually on one side of the head. It's often accompanied by nausea, vomiting, and extreme sensitivity to light and sound. Migraine attacks can last for hours to days.",
+      "symptoms": "Common symptoms include moderate to severe pain usually on one side of the head, pain that throbs or pulses, sensitivity to light and sound, nausea and vomiting, and blurred vision or lightheadedness.",
+      "triggers": "Common migraine triggers include hormonal changes, certain foods and drinks, stress, sensory stimuli, sleep changes, physical exertion, weather changes, and certain medications.",
+      "treatment": "Treatment aims to relieve symptoms and prevent future attacks. Options include pain-relieving medications, preventive medications, lifestyle changes, and alternative therapies."
+    },
+    "url": "https://www.mayoclinic.org/diseases-conditions/migraine"
+  },
+  {
+    "source": "Medical Knowledge Base",
+    "title": "Hypertension (High Blood Pressure)",
+    "category": "Cardiovascular Disorders",
+    "sections": {
+      "overview": "High blood pressure is a common condition that affects the body's arteries. With high blood pressure, the force of blood pushing against artery walls is consistently too high. Normal blood pressure is below 120/80 mm Hg.",
+      "symptoms": "Most people with high blood pressure have no symptoms. In severe cases: headaches, shortness of breath, or nosebleeds may occur.",
+      "risk_factors": "Risk factors include age, family history, being overweight or obese, lack of physical activity, tobacco use, too much salt, too little potassium, drinking too much alcohol, and stress.",
+      "prevention": "Prevention strategies include eating a healthy diet with less salt, getting regular physical activity, maintaining a healthy weight, limiting alcohol, not smoking, and managing stress.",
+      "treatment": "Treatment includes lifestyle changes and medications such as diuretics, ACE inhibitors, angiotensin II receptor blockers, and calcium channel blockers."
+    },
+    "url": "https://www.mayoclinic.org/diseases-conditions/high-blood-pressure"
+  },
+  {
+    "source": "Medical Knowledge Base",
+    "title": "Asthma",
+    "category": "Respiratory Disorders",
+    "sections": {
+      "overview": "Asthma is a condition in which your airways narrow and swell and may produce extra mucus. This can make breathing difficult and trigger coughing, wheezing, and shortness of breath.",
+      "symptoms": "Common symptoms include shortness of breath, chest tightness or pain, wheezing when exhaling, trouble sleeping caused by shortness of breath, and coughing or wheezing attacks.",
+      "triggers": "Common triggers include airborne allergens, respiratory infections, physical activity, cold air, air pollutants, certain medications, strong emotions, and stress.",
+      "treatment": "Treatment includes long-term control medications such as inhaled corticosteroids, and quick-relief medications like short-acting beta agonists."
+    },
+    "url": "https://www.mayoclinic.org/diseases-conditions/asthma"
+  },
+  {
+    "source": "Medical Knowledge Base",
+    "title": "Anxiety Disorders",
+    "category": "Mental Health",
+    "sections": {
+      "overview": "People with anxiety disorders frequently have intense, excessive, and persistent worry and fear about everyday situations. These feelings interfere with daily activities and can last a long time.",
+      "symptoms": "Common symptoms include feeling nervous or tense, having a sense of impending danger, increased heart rate, rapid breathing, sweating, trembling, feeling weak or tired, and trouble concentrating.",
+      "types": "Types include generalized anxiety disorder, panic disorder, social anxiety disorder, and specific phobias.",
+      "treatment": "Main treatments are psychotherapy (cognitive behavioral therapy), medications (antidepressants, anti-anxiety medications), and lifestyle changes."
+    },
+    "url": "https://www.mayoclinic.org/diseases-conditions/anxiety"
+  }
+]

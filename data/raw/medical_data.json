@@ -1,0 +1,51 @@
+[
+  {
+    "title": "Type 2 Diabetes",
+    "sections": {
+      "overview": "Type 2 diabetes is a chronic condition affecting blood sugar metabolism. The body resists insulin or doesn't produce enough insulin to maintain normal glucose levels.",
+      "symptoms": "Common symptoms include increased thirst, frequent urination, increased hunger, unintended weight loss, fatigue, blurred vision, slow-healing sores, and numbness in hands or feet.",
+      "causes": "Develops when the body becomes resistant to insulin or the pancreas cannot produce enough insulin. Risk factors include excess weight, inactivity, family history, and age.",
+      "treatment": "Treatment includes lifestyle changes such as healthy eating and regular exercise, monitoring blood sugar levels, and medications including metformin, insulin, and other diabetes medications.",
+      "prevention": "Prevention strategies include maintaining healthy weight, eating nutritious foods, getting regular physical activity, and managing stress levels."
+    }
+  },
+  {
+    "title": "Migraine Headaches",
+    "sections": {
+      "overview": "A migraine is a headache causing severe throbbing pain or pulsing sensation, usually on one side of the head, often accompanied by nausea, vomiting, and extreme sensitivity to light and sound.",
+      "symptoms": "Symptoms include moderate to severe pain on one side of the head, pulsing or throbbing pain, sensitivity to light and sound, nausea and vomiting, blurred vision, and lightheadedness.",
+      "triggers": "Common triggers include hormonal changes, certain foods and drinks, stress, sensory stimuli like bright lights, sleep changes, physical exertion, weather changes, and certain medications.",
+      "treatment": "Treatment includes pain-relieving medications for acute attacks, preventive medications taken regularly, lifestyle modifications, and alternative therapies like acupuncture and biofeedback."
+    }
+  },
+  {
+    "title": "Hypertension (High Blood Pressure)",
+    "sections": {
+      "overview": "High blood pressure occurs when the force of blood pushing against artery walls is consistently too high. It's a common condition affecting millions, often with no symptoms.",
+      "symptoms": "Most people have no symptoms. Severe cases may cause headaches, shortness of breath, or nosebleeds. Regular monitoring is essential as symptoms usually don't appear until dangerously high.",
+      "risk_factors": "Risk factors include age, family history, being overweight, lack of physical activity, tobacco use, high sodium diet, low potassium intake, excessive alcohol, and chronic stress.",
+      "prevention": "Prevention includes eating a healthy low-sodium diet, getting regular exercise, maintaining healthy weight, limiting alcohol consumption, not smoking, and managing stress effectively.",
+      "treatment": "Treatment involves lifestyle changes and medications such as diuretics, ACE inhibitors, calcium channel blockers, and beta blockers, depending on severity and other health conditions."
+    }
+  },
+  {
+    "title": "Asthma",
+    "sections": {
+      "overview": "Asthma is a condition where airways narrow and swell, producing extra mucus. This makes breathing difficult and triggers coughing, wheezing, and shortness of breath.",
+      "symptoms": "Common symptoms include shortness of breath, chest tightness or pain, wheezing when exhaling, trouble sleeping due to breathing issues, and coughing or wheezing attacks worsened by respiratory viruses.",
+      "triggers": "Triggers include airborne allergens like pollen and pet dander, respiratory infections, physical activity, cold air, air pollutants and smoke, strong emotions, and certain medications.",
+      "diagnosis": "Diagnosis involves physical examination, lung function tests like spirometry and peak flow measurements, and sometimes additional tests like allergy testing or imaging.",
+      "treatment": "Treatment includes long-term control medications like inhaled corticosteroids, quick-relief inhalers for acute symptoms, and avoiding known triggers. Severe cases may require additional therapies."
+    }
+  },
+  {
+    "title": "Anxiety Disorders",
+    "sections": {
+      "overview": "Anxiety disorders involve persistent excessive worry and fear about everyday situations. These feelings are difficult to control, interfere with daily activities, and can last for extended periods.",
+      "symptoms": "Symptoms include feeling nervous or tense, sense of impending danger, increased heart rate, rapid breathing, sweating, trembling, feeling weak or tired, trouble concentrating, and sleep difficulties.",
+      "types": "Types include generalized anxiety disorder with persistent worry, panic disorder with sudden intense fear, social anxiety disorder, specific phobias, and separation anxiety disorder.",
+      "causes": "Causes may include medical conditions, genetics, brain chemistry imbalances, environmental stressors, and traumatic experiences. Often multiple factors contribute to development.",
+      "treatment": "Treatment includes cognitive behavioral therapy, exposure therapy, medications like antidepressants or anti-anxiety drugs, relaxation techniques, and lifestyle changes including regular exercise and stress management."
+    }
+  }
+]

@@ -1,0 +1,272 @@
+[
+  {
+    "id": "chunk_0",
+    "text": "Type 2 Diabetes - Overview\n\nType 2 diabetes is a chronic condition affecting how your body metabolizes sugar (glucose). Your body either resists the effects of insulin or doesn't produce enough insulin to maintain normal glucose levels.",
+    "metadata": {
+      "document_id": "type_2_diabetes",
+      "title": "Type 2 Diabetes",
+      "section": "overview",
+      "source": "Medical Knowledge Base"
+    }
+  },
+  {
+    "id": "chunk_1",
+    "text": "Type 2 Diabetes - Symptoms\n\nIncreased thirst and frequent urination, increased hunger, unintended weight loss, fatigue, blurred vision, slow-healing sores, frequent infections, numbness or tingling in hands or feet, areas of darkened skin.",
+    "metadata": {
+      "document_id": "type_2_diabetes",
+      "title": "Type 2 Diabetes",
+      "section": "symptoms",
+      "source": "Medical Knowledge Base"
+    }
+  },
+  {
+    "id": "chunk_2",
+    "text": "Type 2 Diabetes - Causes\n\nType 2 diabetes develops when the body becomes resistant to insulin or when the pancreas is unable to produce enough insulin. Risk factors include weight, inactivity, family history, age, and gestational diabetes.",
+    "metadata": {
+      "document_id": "type_2_diabetes",
+      "title": "Type 2 Diabetes",
+      "section": "causes",
+      "source": "Medical Knowledge Base"
+    }
+  },
+  {
+    "id": "chunk_3",
+    "text": "Type 2 Diabetes - Treatment\n\nTreatment focuses on managing blood sugar levels through diet, exercise, and medication. Some people may require insulin therapy. Regular monitoring and lifestyle changes are essential.",
+    "metadata": {
+      "document_id": "type_2_diabetes",
+      "title": "Type 2 Diabetes",
+      "section": "treatment",
+      "source": "Medical Knowledge Base"
+    }
+  },
+  {
+    "id": "chunk_4",
+    "text": "Type 2 Diabetes - Prevention\n\nEat healthy foods, get active, lose excess weight, and avoid sedentary behaviors. Regular check-ups help detect prediabetes before it progresses to type 2 diabetes.",
+    "metadata": {
+      "document_id": "type_2_diabetes",
+      "title": "Type 2 Diabetes",
+      "section": "prevention",
+      "source": "Medical Knowledge Base"
+    }
+  },
+  {
+    "id": "chunk_5",
+    "text": "Migraine Headaches - Overview\n\nA migraine is a headache that causes severe throbbing pain or a pulsing sensation, usually on one side of the head. It's often accompanied by nausea, vomiting, and extreme sensitivity to light and sound.",
+    "metadata": {
+      "document_id": "migraine_headaches",
+      "title": "Migraine Headaches",
+      "section": "overview",
+      "source": "Medical Knowledge Base"
+    }
+  },
+  {
+    "id": "chunk_6",
+    "text": "Migraine Headaches - Symptoms\n\nPain on one side of your head, throbbing or pulsing pain, sensitivity to light and sounds, nausea and vomiting, blurred vision, lightheadedness, sometimes followed by fainting.",
+    "metadata": {
+      "document_id": "migraine_headaches",
+      "title": "Migraine Headaches",
+      "section": "symptoms",
+      "source": "Medical Knowledge Base"
+    }
+  },
+  {
+    "id": "chunk_7",
+    "text": "Migraine Headaches - Triggers\n\nHormonal changes in women, certain foods and drinks (aged cheeses, salty foods, alcohol), stress, sensory stimuli (bright lights, loud sounds), sleep changes, physical factors, weather changes.",
+    "metadata": {
+      "document_id": "migraine_headaches",
+      "title": "Migraine Headaches",
+      "section": "triggers",
+      "source": "Medical Knowledge Base"
+    }
+  },
+  {
+    "id": "chunk_8",
+    "text": "Migraine Headaches - Treatment\n\nPain-relieving medications taken during migraine attacks, preventive medications taken regularly, lifestyle changes to avoid triggers, alternative therapies like acupuncture and biofeedback.",
+    "metadata": {
+      "document_id": "migraine_headaches",
+      "title": "Migraine Headaches",
+      "section": "treatment",
+      "source": "Medical Knowledge Base"
+    }
+  },
+  {
+    "id": "chunk_9",
+    "text": "Migraine Headaches - Prevention\n\nIdentify and avoid triggers, maintain regular sleep schedule, manage stress, stay hydrated, exercise regularly, avoid skipping meals.",
+    "metadata": {
+      "document_id": "migraine_headaches",
+      "title": "Migraine Headaches",
+      "section": "prevention",
+      "source": "Medical Knowledge Base"
+    }
+  },
+  {
+    "id": "chunk_10",
+    "text": "Hypertension (High Blood Pressure) - Overview\n\nHigh blood pressure is a common condition where the force of blood against artery walls is consistently too high. It can damage blood vessels and organs over time if left untreated.",
+    "metadata": {
+      "document_id": "hypertension_(high_blood_pressure)",
+      "title": "Hypertension (High Blood Pressure)",
+      "section": "overview",
+      "source": "Medical Knowledge Base"
+    }
+  },
+  {
+    "id": "chunk_11",
+    "text": "Hypertension (High Blood Pressure) - Symptoms\n\nMost people have no symptoms even with dangerously high blood pressure. Some may experience headaches, shortness of breath, or nosebleeds, but these aren't specific and usually occur when blood pressure reaches dangerous levels.",
+    "metadata": {
+      "document_id": "hypertension_(high_blood_pressure)",
+      "title": "Hypertension (High Blood Pressure)",
+      "section": "symptoms",
+      "source": "Medical Knowledge Base"
+    }
+  },
+  {
+    "id": "chunk_12",
+    "text": "Hypertension (High Blood Pressure) - Risk_Factors\n\nAge, race, family history, being overweight or obese, lack of physical activity, tobacco use, too much salt, too little potassium, excessive alcohol consumption, stress, chronic conditions.",
+    "metadata": {
+      "document_id": "hypertension_(high_blood_pressure)",
+      "title": "Hypertension (High Blood Pressure)",
+      "section": "risk_factors",
+      "source": "Medical Knowledge Base"
+    }
+  },
+  {
+    "id": "chunk_13",
+    "text": "Hypertension (High Blood Pressure) - Complications\n\nHeart attack or stroke, aneurysm, heart failure, weakened blood vessels in kidneys, thickened or torn blood vessels in eyes, metabolic syndrome, memory problems.",
+    "metadata": {
+      "document_id": "hypertension_(high_blood_pressure)",
+      "title": "Hypertension (High Blood Pressure)",
+      "section": "complications",
+      "source": "Medical Knowledge Base"
+    }
+  },
+  {
+    "id": "chunk_14",
+    "text": "Hypertension (High Blood Pressure) - Prevention\n\nEat a healthy diet with less salt, exercise regularly, maintain a healthy weight, limit alcohol, don't smoke, manage stress, monitor blood pressure at home, get regular checkups.",
+    "metadata": {
+      "document_id": "hypertension_(high_blood_pressure)",
+      "title": "Hypertension (High Blood Pressure)",
+      "section": "prevention",
+      "source": "Medical Knowledge Base"
+    }
+  },
+  {
+    "id": "chunk_15",
+    "text": "Hypertension (High Blood Pressure) - Treatment\n\nLifestyle changes combined with medications such as diuretics, ACE inhibitors, angiotensin II receptor blockers, calcium channel blockers, or beta blockers depending on individual needs.",
+    "metadata": {
+      "document_id": "hypertension_(high_blood_pressure)",
+      "title": "Hypertension (High Blood Pressure)",
+      "section": "treatment",
+      "source": "Medical Knowledge Base"
+    }
+  },
+  {
+    "id": "chunk_16",
+    "text": "Asthma - Overview\n\nAsthma is a condition in which your airways narrow and swell and may produce extra mucus. This can make breathing difficult and trigger coughing, wheezing, and shortness of breath.",
+    "metadata": {
+      "document_id": "asthma",
+      "title": "Asthma",
+      "section": "overview",
+      "source": "Medical Knowledge Base"
+    }
+  },
+  {
+    "id": "chunk_17",
+    "text": "Asthma - Symptoms\n\nShortness of breath, chest tightness or pain, wheezing when exhaling, trouble sleeping caused by shortness of breath, coughing or wheezing attacks worsened by respiratory viruses like cold or flu.",
+    "metadata": {
+      "document_id": "asthma",
+      "title": "Asthma",
+      "section": "symptoms",
+      "source": "Medical Knowledge Base"
+    }
+  },
+  {
+    "id": "chunk_18",
+    "text": "Asthma - Triggers\n\nAirborne allergens (pollen, dust mites, mold, pet dander), respiratory infections, physical activity, cold air, air pollutants and irritants like smoke, certain medications, strong emotions and stress.",
+    "metadata": {
+      "document_id": "asthma",
+      "title": "Asthma",
+      "section": "triggers",
+      "source": "Medical Knowledge Base"
+    }
+  },
+  {
+    "id": "chunk_19",
+    "text": "Asthma - Diagnosis\n\nPhysical exam, lung function tests (spirometry and peak flow), imaging tests (chest X-ray), allergy testing, blood tests to check eosinophil levels.",
+    "metadata": {
+      "document_id": "asthma",
+      "title": "Asthma",
+      "section": "diagnosis",
+      "source": "Medical Knowledge Base"
+    }
+  },
+  {
+    "id": "chunk_20",
+    "text": "Asthma - Treatment\n\nLong-term control medications (inhaled corticosteroids, leukotriene modifiers, combination inhalers), quick-relief medications (short-acting beta agonists), allergy medications if needed.",
+    "metadata": {
+      "document_id": "asthma",
+      "title": "Asthma",
+      "section": "treatment",
+      "source": "Medical Knowledge Base"
+    }
+  },
+  {
+    "id": "chunk_21",
+    "text": "Anxiety Disorders - Overview\n\nAnxiety disorders involve more than temporary worry or fear. For people with anxiety disorders, the anxiety doesn't go away and can get worse over time, interfering with daily activities.",
+    "metadata": {
+      "document_id": "anxiety_disorders",
+      "title": "Anxiety Disorders",
+      "section": "overview",
+      "source": "Medical Knowledge Base"
+    }
+  },
+  {
+    "id": "chunk_22",
+    "text": "Anxiety Disorders - Symptoms\n\nFeeling nervous, restless or tense, having a sense of impending danger, increased heart rate, rapid breathing, sweating, trembling, feeling weak or tired, trouble concentrating, difficulty sleeping.",
+    "metadata": {
+      "document_id": "anxiety_disorders",
+      "title": "Anxiety Disorders",
+      "section": "symptoms",
+      "source": "Medical Knowledge Base"
+    }
+  },
+  {
+    "id": "chunk_23",
+    "text": "Anxiety Disorders - Types\n\nGeneralized anxiety disorder (GAD), panic disorder, social anxiety disorder, specific phobias, separation anxiety disorder, agoraphobia.",
+    "metadata": {
+      "document_id": "anxiety_disorders",
+      "title": "Anxiety Disorders",
+      "section": "types",
+      "source": "Medical Knowledge Base"
+    }
+  },
+  {
+    "id": "chunk_24",
+    "text": "Anxiety Disorders - Causes\n\nMedical conditions (heart disease, diabetes, thyroid problems), genetics, brain chemistry, environmental stressors, trauma.",
+    "metadata": {
+      "document_id": "anxiety_disorders",
+      "title": "Anxiety Disorders",
+      "section": "causes",
+      "source": "Medical Knowledge Base"
+    }
+  },
+  {
+    "id": "chunk_25",
+    "text": "Anxiety Disorders - Treatment\n\nPsychotherapy (cognitive behavioral therapy is most effective), medications (antidepressants, buspirone, benzodiazepines for short-term relief), lifestyle changes including stress management and relaxation techniques.",
+    "metadata": {
+      "document_id": "anxiety_disorders",
+      "title": "Anxiety Disorders",
+      "section": "treatment",
+      "source": "Medical Knowledge Base"
+    }
+  },
+  {
+    "id": "chunk_26",
+    "text": "Anxiety Disorders - Prevention\n\nGet help early if you notice symptoms, stay physically active, avoid alcohol and recreational drugs, manage stress through meditation or yoga, prioritize sleep.",
+    "metadata": {
+      "document_id": "anxiety_disorders",
+      "title": "Anxiety Disorders",
+      "section": "prevention",
+      "source": "Medical Knowledge Base"
+    }
+  }
+]

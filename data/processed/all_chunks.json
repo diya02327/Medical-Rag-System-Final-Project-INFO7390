@@ -1,0 +1,266 @@
+[
+  {
+    "chunk_id": "type_2_diabetes_chunk_0",
+    "text": "Type 2 Diabetes - Overview\n\nType 2 diabetes is a chronic condition that affects the way your body metabolizes sugar (glucose). With type 2 diabetes, your body either resists the effects of insulin or doesn't produce enough insulin to maintain normal glucose levels. This is the most common form of diabetes, affecting millions of people worldwide.",
+    "metadata": {
+      "document_title": "Type 2 Diabetes",
+      "section": "overview",
+      "source": "Medical Knowledge Base",
+      "category": "Endocrine Disorders",
+      "url": "https://www.mayoclinic.org/diseases-conditions/type-2-diabetes",
+      "chunk_index": 0
+    }
+  },
+  {
+    "chunk_id": "type_2_diabetes_chunk_1",
+    "text": "Type 2 Diabetes - Symptoms\n\nCommon symptoms include increased thirst and frequent urination, increased hunger, unintended weight loss, fatigue and weakness, blurred vision, slow-healing sores or frequent infections, numbness or tingling in hands or feet, and areas of darkened skin, usually in the armpits and neck.",
+    "metadata": {
+      "document_title": "Type 2 Diabetes",
+      "section": "symptoms",
+      "source": "Medical Knowledge Base",
+      "category": "Endocrine Disorders",
+      "url": "https://www.mayoclinic.org/diseases-conditions/type-2-diabetes",
+      "chunk_index": 1
+    }
+  },
+  {
+    "chunk_id": "type_2_diabetes_chunk_2",
+    "text": "Type 2 Diabetes - Causes\n\nType 2 diabetes develops when the body becomes resistant to insulin or when the pancreas is unable to produce enough insulin. Excess weight is strongly linked to the development of type 2 diabetes. Risk factors include weight, inactivity, family history, age, gestational diabetes, and polycystic ovary syndrome.",
+    "metadata": {
+      "document_title": "Type 2 Diabetes",
+      "section": "causes",
+      "source": "Medical Knowledge Base",
+      "category": "Endocrine Disorders",
+      "url": "https://www.mayoclinic.org/diseases-conditions/type-2-diabetes",
+      "chunk_index": 2
+    }
+  },
+  {
+    "chunk_id": "type_2_diabetes_chunk_3",
+    "text": "Type 2 Diabetes - Treatment\n\nTreatment includes lifestyle changes such as healthy eating and exercise, along with medications to help manage blood sugar levels. Some people may need insulin therapy.",
+    "metadata": {
+      "document_title": "Type 2 Diabetes",
+      "section": "treatment",
+      "source": "Medical Knowledge Base",
+      "category": "Endocrine Disorders",
+      "url": "https://www.mayoclinic.org/diseases-conditions/type-2-diabetes",
+      "chunk_index": 3
+    }
+  },
+  {
+    "chunk_id": "type_2_diabetes_chunk_4",
+    "text": "Type 2 Diabetes - Prevention\n\nHealthy lifestyle choices can help prevent type 2 diabetes. Key prevention strategies include eating healthy foods, getting active with at least 30 minutes of moderate physical activity daily, losing excess weight, and avoiding sedentary behaviors.",
+    "metadata": {
+      "document_title": "Type 2 Diabetes",
+      "section": "prevention",
+      "source": "Medical Knowledge Base",
+      "category": "Endocrine Disorders",
+      "url": "https://www.mayoclinic.org/diseases-conditions/type-2-diabetes",
+      "chunk_index": 4
+    }
+  },
+  {
+    "chunk_id": "migraine_headaches_chunk_5",
+    "text": "Migraine Headaches - Overview\n\nA migraine is a type of headache characterized by severe throbbing pain or a pulsing sensation, usually on one side of the head. It's often accompanied by nausea, vomiting, and extreme sensitivity to light and sound. Migraine attacks can last for hours to days.",
+    "metadata": {
+      "document_title": "Migraine Headaches",
+      "section": "overview",
+      "source": "Medical Knowledge Base",
+      "category": "Neurological Disorders",
+      "url": "https://www.mayoclinic.org/diseases-conditions/migraine",
+      "chunk_index": 5
+    }
+  },
+  {
+    "chunk_id": "migraine_headaches_chunk_6",
+    "text": "Migraine Headaches - Symptoms\n\nCommon symptoms include moderate to severe pain usually on one side of the head, pain that throbs or pulses, sensitivity to light and sound, nausea and vomiting, and blurred vision or lightheadedness.",
+    "metadata": {
+      "document_title": "Migraine Headaches",
+      "section": "symptoms",
+      "source": "Medical Knowledge Base",
+      "category": "Neurological Disorders",
+      "url": "https://www.mayoclinic.org/diseases-conditions/migraine",
+      "chunk_index": 6
+    }
+  },
+  {
+    "chunk_id": "migraine_headaches_chunk_7",
+    "text": "Migraine Headaches - Triggers\n\nCommon migraine triggers include hormonal changes, certain foods and drinks, stress, sensory stimuli, sleep changes, physical exertion, weather changes, and certain medications.",
+    "metadata": {
+      "document_title": "Migraine Headaches",
+      "section": "triggers",
+      "source": "Medical Knowledge Base",
+      "category": "Neurological Disorders",
+      "url": "https://www.mayoclinic.org/diseases-conditions/migraine",
+      "chunk_index": 7
+    }
+  },
+  {
+    "chunk_id": "migraine_headaches_chunk_8",
+    "text": "Migraine Headaches - Treatment\n\nTreatment aims to relieve symptoms and prevent future attacks. Options include pain-relieving medications, preventive medications, lifestyle changes, and alternative therapies.",
+    "metadata": {
+      "document_title": "Migraine Headaches",
+      "section": "treatment",
+      "source": "Medical Knowledge Base",
+      "category": "Neurological Disorders",
+      "url": "https://www.mayoclinic.org/diseases-conditions/migraine",
+      "chunk_index": 8
+    }
+  },
+  {
+    "chunk_id": "hypertension_(high_blood_pressure)_chunk_9",
+    "text": "Hypertension (High Blood Pressure) - Overview\n\nHigh blood pressure is a common condition that affects the body's arteries. With high blood pressure, the force of blood pushing against artery walls is consistently too high. Normal blood pressure is below 120/80 mm Hg.",
+    "metadata": {
+      "document_title": "Hypertension (High Blood Pressure)",
+      "section": "overview",
+      "source": "Medical Knowledge Base",
+      "category": "Cardiovascular Disorders",
+      "url": "https://www.mayoclinic.org/diseases-conditions/high-blood-pressure",
+      "chunk_index": 9
+    }
+  },
+  {
+    "chunk_id": "hypertension_(high_blood_pressure)_chunk_10",
+    "text": "Hypertension (High Blood Pressure) - Symptoms\n\nMost people with high blood pressure have no symptoms. In severe cases: headaches, shortness of breath, or nosebleeds may occur.",
+    "metadata": {
+      "document_title": "Hypertension (High Blood Pressure)",
+      "section": "symptoms",
+      "source": "Medical Knowledge Base",
+      "category": "Cardiovascular Disorders",
+      "url": "https://www.mayoclinic.org/diseases-conditions/high-blood-pressure",
+      "chunk_index": 10
+    }
+  },
+  {
+    "chunk_id": "hypertension_(high_blood_pressure)_chunk_11",
+    "text": "Hypertension (High Blood Pressure) - Risk_Factors\n\nRisk factors include age, family history, being overweight or obese, lack of physical activity, tobacco use, too much salt, too little potassium, drinking too much alcohol, and stress.",
+    "metadata": {
+      "document_title": "Hypertension (High Blood Pressure)",
+      "section": "risk_factors",
+      "source": "Medical Knowledge Base",
+      "category": "Cardiovascular Disorders",
+      "url": "https://www.mayoclinic.org/diseases-conditions/high-blood-pressure",
+      "chunk_index": 11
+    }
+  },
+  {
+    "chunk_id": "hypertension_(high_blood_pressure)_chunk_12",
+    "text": "Hypertension (High Blood Pressure) - Prevention\n\nPrevention strategies include eating a healthy diet with less salt, getting regular physical activity, maintaining a healthy weight, limiting alcohol, not smoking, and managing stress.",
+    "metadata": {
+      "document_title": "Hypertension (High Blood Pressure)",
+      "section": "prevention",
+      "source": "Medical Knowledge Base",
+      "category": "Cardiovascular Disorders",
+      "url": "https://www.mayoclinic.org/diseases-conditions/high-blood-pressure",
+      "chunk_index": 12
+    }
+  },
+  {
+    "chunk_id": "hypertension_(high_blood_pressure)_chunk_13",
+    "text": "Hypertension (High Blood Pressure) - Treatment\n\nTreatment includes lifestyle changes and medications such as diuretics, ACE inhibitors, angiotensin II receptor blockers, and calcium channel blockers.",
+    "metadata": {
+      "document_title": "Hypertension (High Blood Pressure)",
+      "section": "treatment",
+      "source": "Medical Knowledge Base",
+      "category": "Cardiovascular Disorders",
+      "url": "https://www.mayoclinic.org/diseases-conditions/high-blood-pressure",
+      "chunk_index": 13
+    }
+  },
+  {
+    "chunk_id": "asthma_chunk_14",
+    "text": "Asthma - Overview\n\nAsthma is a condition in which your airways narrow and swell and may produce extra mucus. This can make breathing difficult and trigger coughing, wheezing, and shortness of breath.",
+    "metadata": {
+      "document_title": "Asthma",
+      "section": "overview",
+      "source": "Medical Knowledge Base",
+      "category": "Respiratory Disorders",
+      "url": "https://www.mayoclinic.org/diseases-conditions/asthma",
+      "chunk_index": 14
+    }
+  },
+  {
+    "chunk_id": "asthma_chunk_15",
+    "text": "Asthma - Symptoms\n\nCommon symptoms include shortness of breath, chest tightness or pain, wheezing when exhaling, trouble sleeping caused by shortness of breath, and coughing or wheezing attacks.",
+    "metadata": {
+      "document_title": "Asthma",
+      "section": "symptoms",
+      "source": "Medical Knowledge Base",
+      "category": "Respiratory Disorders",
+      "url": "https://www.mayoclinic.org/diseases-conditions/asthma",
+      "chunk_index": 15
+    }
+  },
+  {
+    "chunk_id": "asthma_chunk_16",
+    "text": "Asthma - Triggers\n\nCommon triggers include airborne allergens, respiratory infections, physical activity, cold air, air pollutants, certain medications, strong emotions, and stress.",
+    "metadata": {
+      "document_title": "Asthma",
+      "section": "triggers",
+      "source": "Medical Knowledge Base",
+      "category": "Respiratory Disorders",
+      "url": "https://www.mayoclinic.org/diseases-conditions/asthma",
+      "chunk_index": 16
+    }
+  },
+  {
+    "chunk_id": "asthma_chunk_17",
+    "text": "Asthma - Treatment\n\nTreatment includes long-term control medications such as inhaled corticosteroids, and quick-relief medications like short-acting beta agonists.",
+    "metadata": {
+      "document_title": "Asthma",
+      "section": "treatment",
+      "source": "Medical Knowledge Base",
+      "category": "Respiratory Disorders",
+      "url": "https://www.mayoclinic.org/diseases-conditions/asthma",
+      "chunk_index": 17
+    }
+  },
+  {
+    "chunk_id": "anxiety_disorders_chunk_18",
+    "text": "Anxiety Disorders - Overview\n\nPeople with anxiety disorders frequently have intense, excessive, and persistent worry and fear about everyday situations. These feelings interfere with daily activities and can last a long time.",
+    "metadata": {
+      "document_title": "Anxiety Disorders",
+      "section": "overview",
+      "source": "Medical Knowledge Base",
+      "category": "Mental Health",
+      "url": "https://www.mayoclinic.org/diseases-conditions/anxiety",
+      "chunk_index": 18
+    }
+  },
+  {
+    "chunk_id": "anxiety_disorders_chunk_19",
+    "text": "Anxiety Disorders - Symptoms\n\nCommon symptoms include feeling nervous or tense, having a sense of impending danger, increased heart rate, rapid breathing, sweating, trembling, feeling weak or tired, and trouble concentrating.",
+    "metadata": {
+      "document_title": "Anxiety Disorders",
+      "section": "symptoms",
+      "source": "Medical Knowledge Base",
+      "category": "Mental Health",
+      "url": "https://www.mayoclinic.org/diseases-conditions/anxiety",
+      "chunk_index": 19
+    }
+  },
+  {
+    "chunk_id": "anxiety_disorders_chunk_20",
+    "text": "Anxiety Disorders - Types\n\nTypes include generalized anxiety disorder, panic disorder, social anxiety disorder, and specific phobias.",
+    "metadata": {
+      "document_title": "Anxiety Disorders",
+      "section": "types",
+      "source": "Medical Knowledge Base",
+      "category": "Mental Health",
+      "url": "https://www.mayoclinic.org/diseases-conditions/anxiety",
+      "chunk_index": 20
+    }
+  },
+  {
+    "chunk_id": "anxiety_disorders_chunk_21",
+    "text": "Anxiety Disorders - Treatment\n\nMain treatments are psychotherapy (cognitive behavioral therapy), medications (antidepressants, anti-anxiety medications), and lifestyle changes.",
+    "metadata": {
+      "document_title": "Anxiety Disorders",
+      "section": "treatment",
+      "source": "Medical Knowledge Base",
+      "category": "Mental Health",
+      "url": "https://www.mayoclinic.org/diseases-conditions/anxiety",
+      "chunk_index": 21
+    }
+  }
+]

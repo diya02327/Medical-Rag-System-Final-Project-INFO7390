@@ -1,0 +1,54 @@
+[
+  {
+    "title": "Type 2 Diabetes",
+    "sections": {
+      "overview": "Type 2 diabetes is a chronic condition affecting how your body metabolizes sugar (glucose). Your body either resists the effects of insulin or doesn't produce enough insulin to maintain normal glucose levels.",
+      "symptoms": "Increased thirst and frequent urination, increased hunger, unintended weight loss, fatigue, blurred vision, slow-healing sores, frequent infections, numbness or tingling in hands or feet, areas of darkened skin.",
+      "causes": "Type 2 diabetes develops when the body becomes resistant to insulin or when the pancreas is unable to produce enough insulin. Risk factors include weight, inactivity, family history, age, and gestational diabetes.",
+      "treatment": "Treatment focuses on managing blood sugar levels through diet, exercise, and medication. Some people may require insulin therapy. Regular monitoring and lifestyle changes are essential.",
+      "prevention": "Eat healthy foods, get active, lose excess weight, and avoid sedentary behaviors. Regular check-ups help detect prediabetes before it progresses to type 2 diabetes."
+    }
+  },
+  {
+    "title": "Migraine Headaches",
+    "sections": {
+      "overview": "A migraine is a headache that causes severe throbbing pain or a pulsing sensation, usually on one side of the head. It's often accompanied by nausea, vomiting, and extreme sensitivity to light and sound.",
+      "symptoms": "Pain on one side of your head, throbbing or pulsing pain, sensitivity to light and sounds, nausea and vomiting, blurred vision, lightheadedness, sometimes followed by fainting.",
+      "triggers": "Hormonal changes in women, certain foods and drinks (aged cheeses, salty foods, alcohol), stress, sensory stimuli (bright lights, loud sounds), sleep changes, physical factors, weather changes.",
+      "treatment": "Pain-relieving medications taken during migraine attacks, preventive medications taken regularly, lifestyle changes to avoid triggers, alternative therapies like acupuncture and biofeedback.",
+      "prevention": "Identify and avoid triggers, maintain regular sleep schedule, manage stress, stay hydrated, exercise regularly, avoid skipping meals."
+    }
+  },
+  {
+    "title": "Hypertension (High Blood Pressure)",
+    "sections": {
+      "overview": "High blood pressure is a common condition where the force of blood against artery walls is consistently too high. It can damage blood vessels and organs over time if left untreated.",
+      "symptoms": "Most people have no symptoms even with dangerously high blood pressure. Some may experience headaches, shortness of breath, or nosebleeds, but these aren't specific and usually occur when blood pressure reaches dangerous levels.",
+      "risk_factors": "Age, race, family history, being overweight or obese, lack of physical activity, tobacco use, too much salt, too little potassium, excessive alcohol consumption, stress, chronic conditions.",
+      "complications": "Heart attack or stroke, aneurysm, heart failure, weakened blood vessels in kidneys, thickened or torn blood vessels in eyes, metabolic syndrome, memory problems.",
+      "prevention": "Eat a healthy diet with less salt, exercise regularly, maintain a healthy weight, limit alcohol, don't smoke, manage stress, monitor blood pressure at home, get regular checkups.",
+      "treatment": "Lifestyle changes combined with medications such as diuretics, ACE inhibitors, angiotensin II receptor blockers, calcium channel blockers, or beta blockers depending on individual needs."
+    }
+  },
+  {
+    "title": "Asthma",
+    "sections": {
+      "overview": "Asthma is a condition in which your airways narrow and swell and may produce extra mucus. This can make breathing difficult and trigger coughing, wheezing, and shortness of breath.",
+      "symptoms": "Shortness of breath, chest tightness or pain, wheezing when exhaling, trouble sleeping caused by shortness of breath, coughing or wheezing attacks worsened by respiratory viruses like cold or flu.",
+      "triggers": "Airborne allergens (pollen, dust mites, mold, pet dander), respiratory infections, physical activity, cold air, air pollutants and irritants like smoke, certain medications, strong emotions and stress.",
+      "diagnosis": "Physical exam, lung function tests (spirometry and peak flow), imaging tests (chest X-ray), allergy testing, blood tests to check eosinophil levels.",
+      "treatment": "Long-term control medications (inhaled corticosteroids, leukotriene modifiers, combination inhalers), quick-relief medications (short-acting beta agonists), allergy medications if needed."
+    }
+  },
+  {
+    "title": "Anxiety Disorders",
+    "sections": {
+      "overview": "Anxiety disorders involve more than temporary worry or fear. For people with anxiety disorders, the anxiety doesn't go away and can get worse over time, interfering with daily activities.",
+      "symptoms": "Feeling nervous, restless or tense, having a sense of impending danger, increased heart rate, rapid breathing, sweating, trembling, feeling weak or tired, trouble concentrating, difficulty sleeping.",
+      "types": "Generalized anxiety disorder (GAD), panic disorder, social anxiety disorder, specific phobias, separation anxiety disorder, agoraphobia.",
+      "causes": "Medical conditions (heart disease, diabetes, thyroid problems), genetics, brain chemistry, environmental stressors, trauma.",
+      "treatment": "Psychotherapy (cognitive behavioral therapy is most effective), medications (antidepressants, buspirone, benzodiazepines for short-term relief), lifestyle changes including stress management and relaxation techniques.",
+      "prevention": "Get help early if you notice symptoms, stay physically active, avoid alcohol and recreational drugs, manage stress through meditation or yoga, prioritize sleep."
+    }
+  }
+]
