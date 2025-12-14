@@ -22,6 +22,7 @@ st.set_page_config(
     layout="wide"
 )
 
+
 # Initialize (cached to avoid reloading)
 @st.cache_resource
 def initialize_system():
